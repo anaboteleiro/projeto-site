@@ -13,4 +13,4 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(214, 34, 118);
 }
-img { width: 100px; margin: 100px; align-self: center;}
+img { width: 100px; margin: 100px; float:right;}
