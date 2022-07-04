@@ -3,13 +3,13 @@
 }
 
 body{
-    background-color: rgb(164, 84, 211);
+    background-color: rgb(170, 170, 238);
 }
 
 main{
-    background-color: rgb(238, 116, 152);
+    background-color: rgb(228, 156, 206);
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px blueviolet;
+    box-shadow: 3px 3px 5px rgb(214, 34, 118);
 }
